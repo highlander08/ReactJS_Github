@@ -1,4 +1,5 @@
 ❤ UI interface Do Github Usando ReactJS ❤ ThemeProvider of Styled Components !
+✔ Mudar tema da aplicação ao clicar no icone do github para dark ou light ✔
 
 ![light](https://user-images.githubusercontent.com/38596921/91944291-37b43400-ecd4-11ea-8214-ba0891f320aa.png)
 ![dark](https://user-images.githubusercontent.com/38596921/91944292-384cca80-ecd4-11ea-9184-afd23337c1e3.png)
