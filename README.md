@@ -17,5 +17,7 @@ DARK ✔
 * Styled Components
 * Mudar tema do APP para dark ou light ao clicar no icone do github  
 
+### [LESSON STUDIED](https://www.youtube.com/watch?v=iLEbGQXsg3k)
+
 Este projeto foi inicializado com [Create React App] (https://github.com/facebook/create-react-app).
 
